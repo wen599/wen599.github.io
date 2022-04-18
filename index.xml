@@ -6,7 +6,16 @@
     <description>Recent content on 小文的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Mon, 18 Apr 2022 14:42:52 +0800</lastBuildDate><atom:link href="wen599.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Apr 2022 14:58:32 +0800</lastBuildDate><atom:link href="wen599.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>自我介绍</title>
+      <link>wen599.github.io/posts/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/</link>
+      <pubDate>Mon, 18 Apr 2022 14:58:32 +0800</pubDate>
+      
+      <guid>wen599.github.io/posts/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/</guid>
+      <description>自我介绍 我的名字是小文，我的爱好有: 1 抽烟 2 喝酒 3 烫头 我会一点点编程语言：  java JavaScript html  写一个java的hello word吧  public class HelloWord{  public static void main(String[]args){  System.out.print(&amp;#34;HelloWord&amp;#34;);  }  } 再来一个Javascript的hello word吧  window.onload=function(){alert(helloword);}</description>
+    </item>
+    
     <item>
       <title>我的第一篇博客</title>
       <link>wen599.github.io/posts/my-first-post/</link>
