@@ -6,7 +6,19 @@
     <description>Recent content in Posts on 小文的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Mon, 18 Apr 2022 14:58:32 +0800</lastBuildDate><atom:link href="wen599.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Apr 2022 18:52:23 +0800</lastBuildDate><atom:link href="wen599.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Html常用标签</title>
+      <link>wen599.github.io/posts/html%E5%B8%B8%E7%94%A8%E6%A0%87%E7%AD%BE/</link>
+      <pubDate>Mon, 18 Apr 2022 18:52:23 +0800</pubDate>
+      
+      <guid>wen599.github.io/posts/html%E5%B8%B8%E7%94%A8%E6%A0%87%E7%AD%BE/</guid>
+      <description>html常用标签 1.a标签的用法  a标签的作用：  跳转到外部页面 跳转到内部锚点 跳转到邮箱或者电话   herf属性:超链接的地址  取值范围：  网址： 1 https://lxw599.top 2 http://lxw599.top 3 lxw599.top 4 注意：建议用最后一种，它会自动分辨是http还是https 路径 1 /a/b/c 2 a/b/c 3 index.html以及index.html 伪协议：JavaScript：代码; maito:邮箱 tel:手机号码 #id值 可以跳转到这个id的元素     target 目标窗口
+1 _blank 在空白窗口打开
+2 _top 顶层窗口打开 3 _parent 父窗口打开 4 _self 在本窗口打开
+5 字符串 下次以这个字符串为名字打开一个窗口，再次点击还是这个窗口 6 iframe的name rel=noopener 好像可以修复一个bug  2.table标签的用法  table变迁的子标签  thead 表头 tbody 表身 tfoot 表脚 tr 行 th 表头 td 列   相关样式  table-layout 控制表格的宽度 border-collapse 合并表格 border-spacing 表格的间隔   做个表格实例吧   &amp;lt;table&amp;gt;  &amp;lt;thead&amp;gt;  &amp;lt;tr&amp;gt;  &amp;lt;th&amp;gt;&amp;lt;/th&amp;gt;  &amp;lt;th&amp;gt;语文&amp;lt;/th&amp;gt;  &amp;lt;th&amp;gt;数学&amp;lt;/th&amp;gt;  &amp;lt;th&amp;gt;英语&amp;lt;/th&amp;gt;  &amp;lt;/tr&amp;gt;  &amp;lt;/thead&amp;gt;  &amp;lt;tbody&amp;gt;  &amp;lt;tr&amp;gt;  &amp;lt;th&amp;gt;lxw&amp;lt;/th&amp;gt;  &amp;lt;td&amp;gt;50&amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt;59&amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt;45&amp;lt;/td&amp;gt;  &amp;lt;/tr&amp;gt;  &amp;lt;tr&amp;gt;  &amp;lt;th&amp;gt;lyl&amp;lt;/th&amp;gt;  &amp;lt;td&amp;gt;51&amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt;55&amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt;75&amp;lt;/td&amp;gt;  &amp;lt;/tr&amp;gt;  &amp;lt;/tbody&amp;gt;  &amp;lt;tfoot&amp;gt;  &amp;lt;tr&amp;gt;  &amp;lt;th&amp;gt;总计&amp;lt;/th&amp;gt;  &amp;lt;td&amp;gt;150&amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt;150&amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt;120&amp;lt;/td&amp;gt;  &amp;lt;/tr&amp;gt;  &amp;lt;/tfoot&amp;gt; &amp;lt;/table&amp;gt; img标签  作用：发出get请求，展示一张图片 属性：  alt 是图片找不到的时候显示的内容 height 图片的高度 width 图片的宽度 src 图片的路径   事件：  onload 加载完成 onerror 发生错误   响应式：样式</description>
+    </item>
+    
     <item>
       <title>自我介绍</title>
       <link>wen599.github.io/posts/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/</link>
