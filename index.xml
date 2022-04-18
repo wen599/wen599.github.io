@@ -6,7 +6,16 @@
     <description>Recent content on 小文的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Mon, 18 Apr 2022 18:52:23 +0800</lastBuildDate><atom:link href="wen599.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Apr 2022 19:03:34 +0800</lastBuildDate><atom:link href="wen599.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Html入门笔记</title>
+      <link>wen599.github.io/posts/html%E5%85%A5%E9%97%A8%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Mon, 18 Apr 2022 19:03:34 +0800</pubDate>
+      
+      <guid>wen599.github.io/posts/html%E5%85%A5%E9%97%A8%E7%AC%94%E8%AE%B0/</guid>
+      <description>HTML入门笔记1 HTML的发明者  Tim Berners-Lee和同事 Daniel W. Connolly于1990年创立  HTMl起手式  &amp;lt;!DOCTYPE html&amp;gt;  &amp;lt;html lang=&amp;#34;en&amp;#34;&amp;gt;  &amp;lt;head&amp;gt;  &amp;lt;meta charset=&amp;#34;UTF-8&amp;#34;&amp;gt;  &amp;lt;meta http-equiv=&amp;#34;X-UA-Compatible&amp;#34; content=&amp;#34;IE=edge&amp;#34;&amp;gt;  &amp;lt;meta name=&amp;#34;viewport&amp;#34; content=&amp;#34;width=device-width, initial-scale=1.0&amp;#34;&amp;gt;  &amp;lt;title&amp;gt;Document&amp;lt;/title&amp;gt;  &amp;lt;/head&amp;gt;  &amp;lt;body&amp;gt;   &amp;lt;/body&amp;gt;  &amp;lt;/html&amp;gt;    &amp;lt;!DOCTYPE html&amp;gt;   告诉浏览器这个文件是html  &amp;lt;html lang=&amp;quot;en&amp;quot;&amp;gt;   en可以换成zh-CN  &amp;lt;meta charset=&amp;quot;UTF-8&amp;quot;&amp;gt;   字符集是utf-8  &amp;lt;meta http-equiv=&amp;quot;X-UA-Compatible&amp;quot; content=&amp;quot;IE=edge&amp;quot;&amp;gt;   告诉ie使用最新的内核  &amp;lt;meta name=&amp;quot;viewport&amp;quot; content=&amp;quot;width=device-width, initial-scale=1.</description>
+    </item>
+    
     <item>
       <title>Html常用标签</title>
       <link>wen599.github.io/posts/html%E5%B8%B8%E7%94%A8%E6%A0%87%E7%AD%BE/</link>
